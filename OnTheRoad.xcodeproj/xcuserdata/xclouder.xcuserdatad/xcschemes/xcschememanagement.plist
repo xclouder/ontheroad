@@ -4,6 +4,11 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>MyWords.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 		<key>OnTheRoad.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -18,6 +23,16 @@
 			<true/>
 		</dict>
 		<key>B28D380E1A2C7C00009BD348</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B28D38221A2C8CB8009BD348</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B28D38411A2C996B009BD348</key>
 		<dict>
 			<key>primary</key>
 			<true/>
